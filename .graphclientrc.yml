@@ -1,0 +1,5 @@
+sources:
+  - name: unlimited-staging
+    handler:
+      graphql:
+        endpoint: https://api.thegraph.com/subgraphs/name/valentin-seehausen/unlimited-staging
